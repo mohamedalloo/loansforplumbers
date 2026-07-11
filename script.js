@@ -331,13 +331,7 @@ const SITE = {
       "meta": "Tradesman HELOC \u00b7 Columbus, OH"
     }
   ],
-  "confetti": [
-    "#2563a8",
-    "#5b8dc7",
-    "#e3eef9",
-    "#d4af37",
-    "#1f3242"
-  ]
+  "confetti": ["#10b981", "#34d399", "#f5b942", "#ffffff", "#1a2440"]
 };
 
 const ICONS = {
