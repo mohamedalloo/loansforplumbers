@@ -15,3 +15,10 @@
 1. Answer a few plain-English questions (about two minutes, no credit check).
 2. LoansForPlumbers matches the borrower with a licensed specialist for this exact situation.
 3. The specialist contacts the borrower within one business day; the match also arrives by email.
+
+## Related resources
+
+- [Bank statement loans guide](https://lumolend.com/guides/bank-statement-loans/) — LumoLend, an Honest Casa company
+- [Self-employed mortgage requirements](https://lumolend.com/guides/self-employed-mortgage-requirements/) — LumoLend
+- [Free DTI calculator](https://lumolend.com/tools/dti-calculator/) — LumoLend
+- [LumoLend](https://lumolend.com/) — price purchase, refinance, and HELOC scenarios with live indicative rates; free calculators and 40+ mortgage guides
